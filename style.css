@@ -16,6 +16,7 @@ h1, h2, h3 {
   width: 200px;
   height: 200px;
   overflow: hidden;
+  object-fit: center;
 }
 
 .img-circle {
