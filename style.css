@@ -19,7 +19,7 @@ h1, h2, h3 {
 
 .img-circle {
   border-radius: 50%;
-  object-fit: center;
+  object-fit: cover;
 }
 
 .shadowed {
